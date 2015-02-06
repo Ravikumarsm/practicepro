@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d164476-9fdd-4515-aeda-529ac57689ce" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\utilpro\src\main\java\com\valeo\pdfstamper\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\utilpro\src\main\java\com\valeo\pdfstamper\VCSIFCSCheckIn.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\utilpro\src\main\java\com\valeo\pdfstamper\VCSIFCSCheckInImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\utilpro\src\main\java\com\valeo\pdfstamper\VCSIFCSCheckOut.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\utilpro\src\main\java\com\valeo\pdfstamper\VCSIFCSCheckOutImpl.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="utilpro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -374,10 +370,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSVReaderUtils.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CSVReaderUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/deleteme/csvreader/CSVReaderUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="4" selection-start="3163" selection-end="3163" vertical-scroll-proportion="0.7813688">
+            <state line="76" column="4" selection-start="3163" selection-end="3163" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="38" selection-start="70" selection-end="70" vertical-scroll-proportion="0.063079774">
               <folding />
             </state>
           </provider>
@@ -443,15 +448,6 @@
         <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/lang/System.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="53" column="19" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="11" selection-start="3182" selection-end="3182" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -576,7 +572,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sme/xmlfilereader/XmlFileReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sme/transaction/Xls_Reader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sme/transaction/PropertiesFileWriterUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sme/deleteMe/ExcelReader.java" />
@@ -592,6 +587,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pdfstamper/VCSIFCSCheckInImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pdfstamper/VCSIFCSCheckOut.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pdfstamper/VCSIFCSCheckOutImpl.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1250,13 +1246,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="11" selection-start="3182" selection-end="3182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="207" column="46" selection-start="6656" selection-end="6656" vertical-scroll-proportion="0.0">
@@ -1357,7 +1346,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/deleteme/csvreader/CSVReaderUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="4" selection-start="3163" selection-end="3163" vertical-scroll-proportion="0.7813688">
+        <state line="76" column="4" selection-start="3163" selection-end="3163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="70" selection-end="70" vertical-scroll-proportion="0.063079774">
           <folding />
         </state>
       </provider>
