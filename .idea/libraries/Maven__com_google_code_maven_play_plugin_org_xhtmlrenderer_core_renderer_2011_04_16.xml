@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.code.maven-play-plugin.org.xhtmlrenderer:core-renderer:2011.04.16">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/org/xhtmlrenderer/core-renderer/2011.04.16/core-renderer-2011.04.16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/org/xhtmlrenderer/core-renderer/2011.04.16/core-renderer-2011.04.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/org/xhtmlrenderer/core-renderer/2011.04.16/core-renderer-2011.04.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
